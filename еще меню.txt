@@ -1,0 +1,54 @@
+/*
+#menu{
+width:814px;
+float: left;
+padding: 11px 0 0 233px;
+line-height:44px;
+}
+
+#menu li{
+display:inline;
+background-position:top left;
+background-repeat:no-repeat;
+}
+
+#menu a {
+display:block;
+float:left;
+text-align:center;
+margin:0 1px 0 0;
+text-decoration:none;
+font-family:Tahoma, sans-serif;
+font-size:12px;
+color:#000000;
+}
+
+.but1{width:81px;}
+.but1:visited{background:none;} 
+.but1:hover{background-image:url(images/but1.gif);}
+.but1_active{width:81px; background-image:url(images/but1.gif);}
+.but2{width:132px;}
+.but2:visited{background:none;}
+.but2:hover{background-image:url(images/but2.gif);}
+.but2_active{width:132px; background-image:url(images/but2.gif);}
+.but3{width:113px;}
+.but3:visited{background:none;}
+.but3:hover{background-image:url(images/but3.gif);}
+.but3_active{width:113px; background-image:url(images/but3.gif);}
+.but4{width:113px;}
+.but4:visited{background:none;}
+.but4:hover{background-image:url(images/but4.gif);}
+.but4_active{width:113px; background-image:url(images/but4.gif);}
+.but5{width:102px;}
+.but5:visited{background:none;}
+.but5:hover{background-image:url(images/but5.gif);}
+.but5_active{width:102px; background-image:url(images/but5.gif);}
+.but6{width:102px;}
+.but6:visited{background:none;}
+.but6:hover{background-image:url(images/but5.gif);}
+.but6_active{width:102px; background-image:url(images/but5.gif);}
+.but7{width:104px;}
+.but7:visited{background:none;}
+.but7:hover{background-image:url(images/but7.gif);}
+.but7_active{width:104px; background-image:url(images/but7.gif);}
+*/
